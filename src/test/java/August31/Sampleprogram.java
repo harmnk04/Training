@@ -3,9 +3,9 @@ package August31;
 public class Sampleprogram {
 
 public static void main(String []args){
-String s = "nonohello ";
+
 String a = "hello";
-System.out.println(s.substring(0,5));
+System.out.println(a.substring(0,5));
 
 
 }
